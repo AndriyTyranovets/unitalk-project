@@ -1,0 +1,7 @@
+[versions]
+
+[libraries]
+boot_starter_web = { module = "org.springframework.boot:spring-boot-starter-web" }
+
+boot_starter_test = { module = "org.springframework.boot:spring-boot-starter-test" }
+junit_platform_launcher = { module = "org.junit.platform:junit-platform-launcher" }
